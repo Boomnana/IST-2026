@@ -1,0 +1,5 @@
+layer,recall,catch_n,net_migration_vs_blind
+UItree-only (MIBVblind),0.717,129,0
++reasoning (same-modality),0.706,127,-2
++vision (cross-modality),0.806,145,16
+vision-alone,0.256,46,-

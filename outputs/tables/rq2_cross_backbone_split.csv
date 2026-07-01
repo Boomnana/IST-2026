@@ -1,0 +1,5 @@
+silent_set,n,verifier_gap,passive_uncheckable,pu_rate_pct
+deepseek,18,13,5,27.8
+qwen,54,39,15,27.8
+intersection,16,11,5,31.2
+union,56,41,15,26.8

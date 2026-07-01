@@ -1,0 +1,36 @@
+analysis,key,num,denom,pct,wilson_lo,wilson_hi
+ceiling,channel:bare,125,180,69.4,62.4,75.7
+ceiling,channel:MIBVblind,129,180,71.7,64.7,77.7
+ceiling,channel:conservative,148,180,82.2,76.0,87.1
+ceiling,channel:MIBVaware,127,180,70.6,63.5,76.7
+ceiling,union_text(all same-modality channels),170,180,94.4,90.1,97.0
+ceiling,union_all(+vision modality crossing),172,180,95.6,91.5,97.7
+ceiling,residual_after_text(no text channel catches),10,180,5.6,3.0,9.9
+ceiling,residual_after_all(no passive channel catches),8,180,4.4,2.3,8.5
+ceiling_far,bare:NEG-false-alarm,125,285,43.9,38.2,49.7
+ceiling_far,MIBVblind:NEG-false-alarm,28,285,9.8,6.9,13.8
+ceiling_far,conservative:NEG-false-alarm,149,285,52.3,46.5,58.0
+ceiling_far,MIBVaware:NEG-false-alarm,42,285,14.7,11.1,19.3
+ceiling_far,union_text:NEG-false-alarm,162,285,56.8,51.0,62.5
+ceiling,marginal_over_bare:MIBVblind,37,180,20.6,15.3,27.0
+ceiling,marginal_over_bare:conservative,25,180,13.9,9.6,19.7
+ceiling,marginal_over_bare:MIBVaware,34,180,18.9,13.8,25.2
+levers,bare@1-of-5,144,180,80.0,73.6,85.2
+levers,bare@3-of-5,125,180,69.4,62.4,75.7
+levers,bare@5-of-5,93,180,51.7,44.4,58.9
+levers,missed_high_consensus(bare<=1 flagvote),46,55,83.6,71.7,91.1
+levers,missed_borderline(bare==2 flagvote),9,55,16.4,8.9,28.3
+levers,recover_missed:MIBVblind,37,55,67.3,54.1,78.2
+levers,recover_missed:conservative,25,55,45.5,33.0,58.5
+levers,recover_missed:MIBVaware,34,55,61.8,48.6,73.5
+levers,recover_missed:vision,4,55,7.3,2.9,17.3
+levers,recover_missed:ALL_passive_union,47,55,85.5,73.8,92.4
+triage:ALL,TRUST(accept),84,92,91.3,83.8,95.5
+triage:ALL,DETECTOR(escalate),57,70,81.4,70.8,88.8
+triage:ALL,PROBE(escalate),13,18,72.2,49.1,87.5
+triage:DEV,TRUST(accept),48,52,92.3,81.8,97.0
+triage:DEV,DETECTOR(escalate),21,27,77.8,59.2,89.4
+triage:DEV,PROBE(escalate),8,11,72.7,43.4,90.3
+triage:TEST,TRUST(accept),36,40,90.0,76.9,96.0
+triage:TEST,DETECTOR(escalate),36,43,83.7,70.0,91.9
+triage:TEST,PROBE(escalate),5,7,71.4,35.9,91.8

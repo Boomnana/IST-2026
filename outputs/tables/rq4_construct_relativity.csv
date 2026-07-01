@@ -1,0 +1,14 @@
+metric,value
+POS_causal,180
+POS_endstate,98
+stable,82
+lost,98
+gained,16
+jaccard,0.418
+survive_pct,45.6
+delete_in_lost,21/98
+delete_in_stable,0/82
+redundant_pct_causal,51.1
+redundant_pct_endstate,67.3
+survival_high_checkable,56/92
+survival_low_checkable,26/88

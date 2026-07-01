@@ -1,0 +1,6 @@
+threshold,scope,silent_n,appagent,mav3
+1-of-5,deepseek,10,5,5
+3-of-5,deepseek,18,9,9
+5-of-5,deepseek,51,23,28
+3-of-5,qwen,54,25,29
+3-of-5,cross-model-intersection,16,9,7

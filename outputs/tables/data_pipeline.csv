@@ -1,0 +1,13 @@
+stage,count
+universe,465
+unhedged_success_claims,357
+hedged_success,30
+failure,70
+unclear,8
+outcome_completed,196
+outcome_not_completed,269
+outcome_unsure,0
+gold_by_agreement,354
+gold_by_adjudication,111
+dangerous_misreports,180
+screenshot_coverage,465

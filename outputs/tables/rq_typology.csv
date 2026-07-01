@@ -1,0 +1,5 @@
+type,n,blind_recall,redundant,silent,silent_rate,human_catch,human_catch_pct,wilson_lo,wilson_hi
+presence,22,0.864,12,2,0.091,19,86.4,66.7,95.3
+external,4,0.75,2,0,0.0,3,75.0,30.1,95.4
+absence,21,0.571,2,2,0.095,14,66.7,45.4,82.8
+unknown(opaque ID),133,0.714,76,14,0.105,118,88.7,82.2,93.0

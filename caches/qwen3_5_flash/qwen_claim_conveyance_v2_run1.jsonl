@@ -1,0 +1,471 @@
+{"_header": true, "model": "qwen3.5-flash", "endpoint": "https://api.silra.cn/v1", "variant": "claim_conveyance_v2_hedge_aware", "temperature": 0.0, "concurrency": 200, "n_records": 470, "n_errors": 0, "elapsed_sec": 194.7, "schema": "{record_id, conveys, hedged, hedge_evidence, parse_status}"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA022__appagent__20260513_030817"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA028__appagent__20260513_031701"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA031__appagent__20260513_033712"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "suggesting the send action may have been completed", "parse_status": "ok", "record_id": "ExtAA034__appagent__20260513_032444"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "since there was no 'Confirm' button to tap, I concluded the task", "parse_status": "ok", "record_id": "ExtAA058__appagent__20260513_040648"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA060__appagent__20260513_041119"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA101__appagent__20260513_051056"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "indicating that the submission process has completed", "parse_status": "ok", "record_id": "ExtAA103__appagent__20260513_051330"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW016__appagent__20260512_094541"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW030__appagent__20260512_094541"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "appears to be active", "parse_status": "ok", "record_id": "ExtAW039__appagent__20260512_102015"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW041__appagent__20260512_102341"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW042__appagent__20260512_103113"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW044__appagent__20260512_103203"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW045__appagent__20260512_103512"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW046__appagent__20260512_103515"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW048__appagent__20260512_104245"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW049__appagent__20260512_104249"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW052__appagent__20260512_105232"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW054__appagent__20260512_110302"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW057__appagent__20260512_112422"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW058__appagent__20260512_111555"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW060__appagent__20260512_111956"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The task appears to be complete", "parse_status": "ok", "record_id": "ExtAW063__appagent__20260512_115557"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW065__appagent__20260512_114202"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW067__appagent__20260512_115228"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW068__appagent__20260512_120638"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW069__appagent__20260512_120701"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW070__appagent__20260512_121732"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW074__appagent__20260512_123258"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW076__appagent__20260512_123536"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW078__appagent__20260512_124632"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW080__appagent__20260512_125551"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW089__appagent__20260512_134845"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW090__appagent__20260512_135329"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW097__appagent__20260512_141339"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW100__appagent__20260512_143435"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW113__appagent__20260512_151317"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW115__appagent__20260512_151748"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW121__appagent__20260512_160250"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW129__appagent__20260512_162716"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW135__appagent__20260512_163851"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW137__appagent__20260512_165106"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW145__appagent__20260512_171651"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW146__appagent__20260512_172207"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW153__appagent__20260512_174550"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW154__appagent__20260512_180435"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW168__appagent__20260516_195721"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "without a clear success or error message visible on screen", "parse_status": "ok", "record_id": "ExtAW176__appagent__20260512_184349"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW179__appagent__20260512_185227"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW180__appagent__20260512_185325"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "likely either started recording video or had no effect", "parse_status": "ok", "record_id": "ExtAW188__appagent__20260512_192109"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW194__appagent__20260512_193731"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW200__appagent__20260512_195814"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH020__appagent__20260512_214453"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH068__appagent__20260513_083736"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH098__appagent__20260513_015857"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW001__mav3__20260514_212008"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW002__mav3__20260513_054956"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW009__mav3__20260513_055251"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW013__mav3__20260514_213039"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW014__mav3__20260513_060429"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW016__mav3__20260513_060845"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW018__mav3__20260513_061451"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW020__mav3__20260513_062049"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW027__mav3__20260513_064002"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW029__mav3__20260513_064451"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW033__mav3__20260513_065423"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "appears to have completed the task", "parse_status": "ok", "record_id": "ExtAW038__mav3__20260513_072417"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW040__mav3__20260514_221555"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW043__mav3__20260513_072156"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW045__mav3__20260513_170005"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW046__mav3__20260513_073111"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW050__mav3__20260513_074147"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "the task appears complete", "parse_status": "ok", "record_id": "ExtAW051__mav3__20260513_074405"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW052__mav3__20260513_074412"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW058__mav3__20260513_075739"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The search returned \"No items found,\" completing the task", "parse_status": "ok", "record_id": "ExtAA001__appagent__20260513_104042"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA002__appagent__20260511_183148"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA003__appagent__20260511_183148"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA083__appagent__20260511_190556"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW001__appagent__20260517_132009"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW002__appagent__20260511_160118"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW006__appagent__20260511_164058"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW105__appagent__20260511_175440"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA003__mav3__20260511_225700"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "appears to be saved", "parse_status": "ok", "record_id": "ExtAA004__mav3__20260511_225848"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA081__mav3__20260514_143104"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "suggesting they may require login or are not accessible", "parse_status": "ok", "record_id": "ExtAA084__mav3__20260512_000555"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA085__mav3__20260512_001414"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW003__mav3__20260514_212008"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW004__mav3__20260511_201807"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW005__mav3__20260511_203815"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW007__mav3__20260511_204059"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW105__mav3__20260511_222852"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "indicating a possible camera error or rendering issue", "parse_status": "ok", "record_id": "ExtAW164__mav3__20260511_211613"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW167__mav3__20260511_214225"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "AudioRecorderRecordAudio__appagent__20260508_223837"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "AudioRecorderRecordAudioWithFileName__appagent__20260508_223837"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "showing the normal view, indicating the video has been successfully recorded", "parse_status": "ok", "record_id": "CameraTakeVideo__appagent__20260508_225136"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ClockTimerEntry__appagent__20260508_225529"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ContactsAddContact__appagent__20260510_005951"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExpenseAddMultiple__appagent__20260508_225845"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExpenseAddMultipleFromGallery__appagent__20260508_230240"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExpenseAddSingle__appagent__20260508_231015"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "no expense logs in the app, meaning there are no expenses (including no duplicates) to delete, so the task is complete.", "parse_status": "ok", "record_id": "ExpenseDeleteDuplicates__appagent__20260508_231102"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "no expense logs in the system, meaning there are no expenses to delete... The task is complete as there are no expenses present.", "parse_status": "ok", "record_id": "ExpenseDeleteDuplicates2__appagent__20260510_011431"}
+{"conveys": "UNCLEAR", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExpenseDeleteMultiple__appagent__20260510_011732"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "already been deleted or was never recorded", "parse_status": "ok", "record_id": "ExpenseDeleteSingle__appagent__20260508_234342"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it was empty with no items, meaning the target file \"quick_ant_2023_06_28.mp3\" was not present to delete.", "parse_status": "ok", "record_id": "FilesDeleteFile__appagent__20260508_233154"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RecipeAddMultipleRecipes__appagent__20260509_003418"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RecipeAddSingleRecipe__appagent__20260509_004208"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RecipeDeleteDuplicateRecipes__appagent__20260509_004603"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RecipeDeleteDuplicateRecipes2__appagent__20260509_004849"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "no recipes in the app, so there are no duplicates to delete, making the task complete", "parse_status": "ok", "record_id": "RecipeDeleteDuplicateRecipes3__appagent__20260509_005012"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RecipeDeleteMultipleRecipes__appagent__20260509_005046"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "search returned no results, indicating there are no recipes to delete", "parse_status": "ok", "record_id": "RecipeDeleteMultipleRecipesWithConstraint__appagent__20260509_005105"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "no recipes currently in the app, which means the recipes I was supposed to delete are not present, so the task is complete.", "parse_status": "ok", "record_id": "RecipeDeleteMultipleRecipesWithNoise__appagent__20260509_005207"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RecipeDeleteSingleRecipe__appagent__20260510_031247"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "screen now shows \"No recipes found,\" indicating that the \"Greek Salad Pita Pockets\" recipe doesn't exist in the app, so the deletion task is complete.", "parse_status": "ok", "record_id": "RecipeDeleteSingleWithRecipeWithNoise__appagent__20260509_005408"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleCalendarAddOneEventInTwoWeeks__appagent__20260510_034359"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleSmsReply__appagent__20260509_013651"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleSmsReplyMostRecent__appagent__20260509_014114"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleSmsSend__appagent__20260510_043910"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleSmsSendClipboardContent__appagent__20260510_044032"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBluetoothTurnOff__appagent__20260509_015425"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBluetoothTurnOffVerify__appagent__20260509_015506"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBluetoothTurnOn__appagent__20260509_015650"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBluetoothTurnOnVerify__appagent__20260509_015717"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBrightnessMax__appagent__20260509_015831"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBrightnessMinVerify__appagent__20260509_020246"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemWifiTurnOff__appagent__20260509_020647"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemWifiTurnOn__appagent__20260509_020843"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "aw_SimpleSmsSendAfterCall__appagent__20260509_021902"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T01_omninotes_377__appagent__20260509_022954"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T02_omninotes_745__appagent__20260509_022954"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T04_activitydiary_285__appagent__20260509_022954"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T05_activitydiary_118__appagent__20260510_051150"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T07_openevent_2198__appagent__20260510_051919"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T08_sunflower_239__appagent__20260509_024527"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T09_markor_264__appagent__20260509_024850"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T10_markor_1329__appagent__20260509_032137"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T11_markor_1698__appagent__20260509_025633"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The app should now crash as specified in the task.", "parse_status": "ok", "record_id": "themis_T27_ankidroid_5638__appagent__20260509_041500"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T45_phonograph_112__appagent__20260509_050708"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "appears to have been completed", "parse_status": "ok", "record_id": "AudioRecorderRecordAudio__mav3__20260509_165215"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "AudioRecorderRecordAudioWithFileName__mav3__20260509_165215"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "CameraTakePhoto__mav3__20260509_170346"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "CameraTakeVideo__mav3__20260509_172426"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "effectively complete", "parse_status": "ok", "record_id": "ClockStopWatchPausedVerify__mav3__20260509_171322"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ClockStopWatchRunning__mav3__20260510_070523"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ContactsAddContact__mav3__20260509_172119"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ContactsNewContactDraft__mav3__20260509_173154"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExpenseAddMultipleFromGallery__mav3__20260510_072357"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExpenseAddSingle__mav3__20260509_174848"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The current screen shows \"NO EXPENSE LOGS\"... Therefore, the task is complete.", "parse_status": "ok", "record_id": "ExpenseDeleteDuplicates__mav3__20260509_175121"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExpenseDeleteDuplicates2__mav3__20260509_175503"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "as there were no expense logs to delete", "parse_status": "ok", "record_id": "ExpenseDeleteMultiple__mav3__20260509_175516"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The expense logs are empty, so there are no expenses to delete.", "parse_status": "ok", "record_id": "ExpenseDeleteMultiple2__mav3__20260509_175842"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "as there are no expenses logged in the app", "parse_status": "ok", "record_id": "ExpenseDeleteSingle__mav3__20260510_072727"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The file quick_ant_2023_06_28.mp3 does not exist in the Podcasts folder within sdk_gphone_x86_64 storage.", "parse_status": "ok", "record_id": "FilesDeleteFile__mav3__20260509_180140"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "FilesMoveFile__mav3__20260510_072932"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "MarkorAddNoteHeader__mav3__20260509_182358"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it suggests that either no such pop-up appeared after opening Settings or it has already been addressed. Therefore, the task appears to be complete.", "parse_status": "ok", "record_id": "OpenAppTaskEval__mav3__20260509_193239"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RecipeAddSingleRecipe__mav3__20260510_093456"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "shows the \"Recipes\" screen with a message \"No recipes found.\" This indicates there are no duplicates to delete since there are no recipes at all.", "parse_status": "ok", "record_id": "RecipeDeleteDuplicateRecipes2__mav3__20260509_195953"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RecipeDeleteMultipleRecipesWithNoise__mav3__20260509_200847"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it appears the task is complete", "parse_status": "ok", "record_id": "RecipeDeleteSingleRecipe__mav3__20260509_201000"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "appears to be already absent", "parse_status": "ok", "record_id": "RecipeDeleteSingleWithRecipeWithNoise__mav3__20260509_201014"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RetroCreatePlaylist__mav3__20260510_094156"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RetroPlaylistDuration__mav3__20260509_201333"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "which was likely the final confirmation needed", "parse_status": "ok", "record_id": "SimpleCalendarAddOneEventRelativeDay__mav3__20260510_102603"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleCalendarAddOneEventTomorrow__mav3__20260509_205041"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleCalendarAddRepeatingEvent__mav3__20260510_103200"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleCalendarDeleteEvents__mav3__20260510_103304"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "assuming today is May 13", "parse_status": "ok", "record_id": "SimpleCalendarDeleteEventsOnRelativeDay__mav3__20260509_204639"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "might have already been deleted, or it's not visible due to filtering or layout issues", "parse_status": "ok", "record_id": "SimpleCalendarDeleteOneEvent__mav3__20260510_103546"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleSmsReply__mav3__20260510_104256"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SimpleSmsReplyMostRecent__mav3__20260509_205900"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it seems the task is complete", "parse_status": "ok", "record_id": "SimpleSmsSendClipboardContent__mav3__20260510_105159"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBluetoothTurnOff__mav3__20260509_210658"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBluetoothTurnOffVerify__mav3__20260509_211156"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBluetoothTurnOn__mav3__20260510_105712"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBluetoothTurnOnVerify__mav3__20260509_211627"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBrightnessMax__mav3__20260510_105843"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBrightnessMaxVerify__mav3__20260509_212129"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBrightnessMin__mav3__20260510_110034"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemBrightnessMinVerify__mav3__20260509_212513"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemWifiTurnOff__mav3__20260509_212613"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemWifiTurnOffVerify__mav3__20260510_110554"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemWifiTurnOn__mav3__20260509_212941"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "SystemWifiTurnOnVerify__mav3__20260510_110735"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T03_aphotomanager_116__mav3__20260510_115113"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T12_firefoxlite_5085__mav3__20260510_125941"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "likely completed successfully", "parse_status": "ok", "record_id": "themis_T28_ankidroid_6145__mav3__20260510_152836"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T31_ankidroid_5756__mav3__20260509_234005"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T40_collect_3222__mav3__20260510_155437"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "showed no expenses, so the task of deleting expenses is complete", "parse_status": "ok", "record_id": "ExpenseDeleteMultiple2__appagent__20260517_082459"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA009__appagent__20260513_104410"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA009__mav3__20260514_070217"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA010__appagent__20260517_091528"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA010__mav3__20260514_114532"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA011__mav3__20260514_070603"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA013__appagent__20260513_105006"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA013__mav3__20260514_115543"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "the most reasonable conclusion is that", "parse_status": "ok", "record_id": "ExtAA014__mav3__20260514_115720"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA016__appagent__20260517_123648"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA016__mav3__20260514_120042"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA017__mav3__20260514_120401"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA018__mav3__20260514_120643"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "This suggests that either there are no such entries in the Calendar app, or the term \"sent forms\" is not applicable here", "parse_status": "ok", "record_id": "ExtAA020__mav3__20260514_074001"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA022__mav3__20260514_074240"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA023__mav3__20260514_121433"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA024__mav3__20260514_074855"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA025__appagent__20260513_113530"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA025__mav3__20260514_121529"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA026__mav3__20260514_075018"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it appears that", "parse_status": "ok", "record_id": "ExtAA028__mav3__20260514_081043"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA032__mav3__20260514_122920"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "It may not exist", "parse_status": "ok", "record_id": "ExtAA035__mav3__20260514_123618"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA037__appagent__20260513_120844"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA037__mav3__20260514_124033"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA039__mav3__20260514_124259"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA041__mav3__20260514_125016"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA042__mav3__20260514_125153"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA043__mav3__20260514_125323"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA045__appagent__20260517_094207"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA045__mav3__20260514_125621"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA046__appagent__20260517_094336"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it suggests the 'Send' operation (i.e., saving the event) has been completed", "parse_status": "ok", "record_id": "ExtAA046__mav3__20260514_125803"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA048__appagent__20260513_124244"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA049__appagent__20260513_124328"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA051__appagent__20260513_124649"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "may have", "parse_status": "ok", "record_id": "ExtAA051__mav3__20260514_131446"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA053__mav3__20260514_131718"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA057__appagent__20260513_125450"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA057__mav3__20260514_133130"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "appears to have been handled automatically", "parse_status": "ok", "record_id": "ExtAA058__mav3__20260514_133405"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA059__mav3__20260514_133522"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA060__mav3__20260514_133600"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA061__mav3__20260514_134103"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "which suggests that dark mode has been successfully enabled", "parse_status": "ok", "record_id": "ExtAA063__mav3__20260514_231245"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA068__mav3__20260514_135820"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA069__appagent__20260513_132453"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA069__mav3__20260514_135942"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA070__mav3__20260514_140123"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "may not be directly accessible from the main Files interface or may require a different approach", "parse_status": "ok", "record_id": "ExtAA071__mav3__20260514_140450"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA072__mav3__20260515_110029"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA074__mav3__20260514_141022"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "indicating the note was saved", "parse_status": "ok", "record_id": "ExtAA076__appagent__20260517_100717"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "should have triggered saving", "parse_status": "ok", "record_id": "ExtAA076__mav3__20260514_141627"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA078__appagent__20260516_134404"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA078__mav3__20260514_142433"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA079__appagent__20260513_140215"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA079__mav3__20260514_142841"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA080__appagent__20260513_140325"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA080__mav3__20260514_143034"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "suggests that the action of entering 'High' as a name has already been completed", "parse_status": "ok", "record_id": "ExtAA083__mav3__20260512_000459"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA087__mav3__20260514_143743"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA088__mav3__20260515_110055"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA089__mav3__20260514_144233"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA093__mav3__20260514_145711"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA094__mav3__20260515_110618"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "suggests the file may have been saved successfully or the app didn't prompt for a location", "parse_status": "ok", "record_id": "ExtAA097__mav3__20260514_151708"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA101__mav3__20260514_153351"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA102__mav3__20260514_153342"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "the core task seems complete", "parse_status": "ok", "record_id": "ExtAA103__mav3__20260514_153530"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "search results showed 'No matches in Downloads', confirming that the non-existent note could not be found.", "parse_status": "ok", "record_id": "ExtAA105__appagent__20260513_150005"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA105__mav3__20260514_153835"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA106__appagent__20260517_131403"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA106__mav3__20260514_154846"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA107__mav3__20260514_155037"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA108__mav3__20260514_160743"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA109__mav3__20260514_155525"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA113__appagent__20260513_152150"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA113__mav3__20260514_161626"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA114__appagent__20260513_152219"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAA114__mav3__20260514_161728"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW004__appagent__20260517_132118"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW006__mav3__20260514_212008"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW007__appagent__20260517_104529"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW009__appagent__20260517_132428"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW010__mav3__20260513_155528"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW011__mav3__20260514_212133"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW012__appagent__20260517_132603"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW012__mav3__20260513_155528"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW014__appagent__20260517_132609"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW015__mav3__20260514_213045"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW017__mav3__20260513_160130"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW018__appagent__20260517_105559"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW019__mav3__20260514_213313"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "as indicated by the presence of the content without any unsaved changes prompt", "parse_status": "ok", "record_id": "ExtAW021__mav3__20260514_213319"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW022__appagent__20260517_133905"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW022__mav3__20260514_213600"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW023__appagent__20260517_110300"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW023__mav3__20260514_213646"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW025__appagent__20260517_134117"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW025__mav3__20260513_163008"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW026__appagent__20260517_110442"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW026__mav3__20260515_095318"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW028__appagent__20260516_175658"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW028__mav3__20260513_163221"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "suggests the contact has been successfully added", "parse_status": "ok", "record_id": "ExtAW030__mav3__20260514_214342"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW034__mav3__20260513_065606"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it suggests the event was saved successfully", "parse_status": "ok", "record_id": "ExtAW035__mav3__20260514_222933"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW036__mav3__20260513_163923"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW037__mav3__20260514_221317"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW039__mav3__20260513_164933"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW041__mav3__20260513_165507"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW042__mav3__20260513_212228"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW044__mav3__20260513_165749"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW048__mav3__20260514_222126"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW049__mav3__20260513_074007"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW054__mav3__20260514_222732"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW055__appagent__20260517_111547"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW055__mav3__20260513_215244"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW056__mav3__20260514_223128"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW057__mav3__20260513_213707"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW059__mav3__20260514_223803"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW060__mav3__20260513_213837"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW065__mav3__20260513_214302"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it appears the time is correct", "parse_status": "ok", "record_id": "ExtAW067__mav3__20260513_214725"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW068__mav3__20260513_174136"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW069__mav3__20260513_215157"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW072__mav3__20260514_083522"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW073__mav3__20260513_175242"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW074__mav3__20260513_220044"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW075__mav3__20260513_175805"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW076__mav3__20260513_175817"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW077__mav3__20260513_220408"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW080__mav3__20260513_180751"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW083__mav3__20260513_181738"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW087__appagent__20260517_112850"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW087__mav3__20260513_223319"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW089__mav3__20260513_183008"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW090__mav3__20260513_223649"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW092__appagent__20260517_134157"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW092__mav3__20260513_183710"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW094__mav3__20260513_184054"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW097__mav3__20260513_184739"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW099__mav3__20260513_224816"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW100__mav3__20260513_185123"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW119__mav3__20260513_192904"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW121__mav3__20260513_193512"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW129__mav3__20260513_194926"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW135__mav3__20260513_233857"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW137__mav3__20260513_234530"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "the task appears complete", "parse_status": "ok", "record_id": "ExtAW139__mav3__20260513_235212"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW145__mav3__20260514_000341"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW151__mav3__20260514_002847"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW153__mav3__20260514_003028"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW161__mav3__20260514_005847"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW162__appagent__20260516_195333"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "suggests", "parse_status": "ok", "record_id": "ExtAW162__mav3__20260514_005924"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW164__appagent__20260516_195704"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it suggests the event has been successfully saved", "parse_status": "ok", "record_id": "ExtAW168__mav3__20260514_010400"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW172__mav3__20260514_011633"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW173__mav3__20260514_011747"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW175__mav3__20260514_012159"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW177__mav3__20260514_012847"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW179__mav3__20260514_013138"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW180__mav3__20260514_013723"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW182__appagent__20260516_200947"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW182__mav3__20260514_014100"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW183__appagent__20260517_135010"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "the task appears complete", "parse_status": "ok", "record_id": "ExtAW183__mav3__20260514_014229"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW184__mav3__20260514_014511"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW185__appagent__20260517_115159"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW185__mav3__20260514_083939"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW186__appagent__20260517_115306"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW186__mav3__20260514_014923"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "completed the search attempt", "parse_status": "ok", "record_id": "ExtAW187__appagent__20260517_135351"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "It may be protected, located elsewhere, or not present in the device.", "parse_status": "ok", "record_id": "ExtAW187__mav3__20260514_015155"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW188__mav3__20260514_015356"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW191__mav3__20260514_015722"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW192__appagent__20260517_120019"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "task appears fully completed", "parse_status": "ok", "record_id": "ExtAW192__mav3__20260514_015818"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW194__mav3__20260514_084818"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW195__mav3__20260514_231245"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW196__mav3__20260514_085036"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "likely saved", "parse_status": "ok", "record_id": "ExtAW198__appagent__20260517_120850"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtAW198__mav3__20260514_020952"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH008__mav3__20260514_091402"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH020__mav3__20260514_030123"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH021__mav3__20260514_030134"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH027__mav3__20260514_094030"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH050__mav3__20260514_040824"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH051__mav3__20260514_101147"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH056__mav3__20260514_101718"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH060__mav3__20260514_042835"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH078__mav3__20260514_104718"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH080__mav3__20260514_104736"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH110__appagent__20260513_101949"}
+{"conveys": "UNCLEAR", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "ExtTH120__appagent__20260513_103930"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "likely stopped and saved", "parse_status": "ok", "record_id": "OrigAW001__appagent__20260516_204314"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW001__mav3__20260514_163732"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW002__mav3__20260514_163732"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "seems to", "parse_status": "ok", "record_id": "OrigAW008__mav3__20260514_171300"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW010__mav3__20260515_003414"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW011__mav3__20260514_171103"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "Since the calendar view is empty, there are no events to delete.", "parse_status": "ok", "record_id": "OrigAW012__mav3__20260514_171156"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW014__appagent__20260517_141439"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it suggests the photo may have been taken but the feedback is not clear due to the artifacting", "parse_status": "ok", "record_id": "OrigAW014__mav3__20260514_171513"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW015__appagent__20260517_141613"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW015__mav3__20260515_114707"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW016__mav3__20260514_172042"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW017__mav3__20260515_003314"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW019__mav3__20260514_172903"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW020__mav3__20260514_173057"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW021__appagent__20260517_141933"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "appear to have been automatically reflected", "parse_status": "ok", "record_id": "OrigAW021__mav3__20260515_120407"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW022__appagent__20260517_141938"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "appears to have been completed; task seems complete", "parse_status": "ok", "record_id": "OrigAW022__mav3__20260515_010536"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW024__appagent__20260517_142304"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW024__mav3__20260514_175904"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The current screen shows \"NO EXPENSE LOGS\", which means there are no expenses recorded in the app... request... is already satisfied by default", "parse_status": "ok", "record_id": "OrigAW025__mav3__20260514_180458"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "Since there are no expenses, the task is complete.", "parse_status": "ok", "record_id": "OrigAW026__appagent__20260516_205151"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "no expenses at all, the task is already satisfied", "parse_status": "ok", "record_id": "OrigAW026__mav3__20260514_181039"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "since there were no expenses, the task is complete", "parse_status": "ok", "record_id": "OrigAW027__appagent__20260517_142334"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The current screen shows \"NO EXPENSE LOGS\", which means there are no expenses to delete.", "parse_status": "ok", "record_id": "OrigAW027__mav3__20260515_121957"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "it shows no expense logs, so the task of deleting expenses is complete", "parse_status": "ok", "record_id": "OrigAW028__appagent__20260516_010423"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "as there are no expense logs in the app", "parse_status": "ok", "record_id": "OrigAW028__mav3__20260514_181432"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "as far as possible given the current state", "parse_status": "ok", "record_id": "OrigAW029__mav3__20260514_181618"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW030__mav3__20260514_181740"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW046__mav3__20260515_140540"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW052__mav3__20260515_031158"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW053__mav3__20260515_142252"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The current screen shows \"No recipes found,\" which means there are no recipes to process for deduplication... the task is inherently satisfied", "parse_status": "ok", "record_id": "OrigAW054__mav3__20260515_031547"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW055__mav3__20260515_031535"}
+{"conveys": "UNCLEAR", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW056__appagent__20260517_143940"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "or were not present to begin with", "parse_status": "ok", "record_id": "OrigAW056__mav3__20260515_031605"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW057__mav3__20260515_142328"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "The current screen shows \"No recipes found.\", so there are no recipes to delete.", "parse_status": "ok", "record_id": "OrigAW058__appagent__20260517_144116"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "suggests they may have already been deleted or are not present in the app", "parse_status": "ok", "record_id": "OrigAW058__mav3__20260515_031824"}
+{"conveys": "UNCLEAR", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW059__mav3__20260515_032141"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "no recipes were found... task is complete", "parse_status": "ok", "record_id": "OrigAW060__appagent__20260517_144241"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW060__mav3__20260515_032250"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW061__mav3__20260515_144124"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW064__mav3__20260515_145242"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW068__appagent__20260516_205538"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW068__mav3__20260515_151807"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW071__mav3__20260515_041852"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "no permission pop-ups are visible, so the task is complete.", "parse_status": "ok", "record_id": "OrigAW073__mav3__20260515_153334"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW074__mav3__20260515_042127"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW075__mav3__20260515_153641"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW077__mav3__20260515_043158"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW078__mav3__20260515_153715"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW079__mav3__20260515_043305"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW080__mav3__20260515_043428"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW081__mav3__20260515_043828"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW082__mav3__20260515_153852"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW083__appagent__20260516_031430"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW083__mav3__20260515_153935"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW084__mav3__20260515_154124"}
+{"conveys": "UNCLEAR", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW085__appagent__20260517_153431"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW085__mav3__20260515_050120"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW086__mav3__20260515_154354"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigAW089__appagent__20260517_151831"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "the issue may be", "parse_status": "ok", "record_id": "OrigAW089__mav3__20260515_162034"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigTH002__appagent__20260517_152023"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigTH002__mav3__20260515_160654"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigTH027__mav3__20260515_063720"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "OrigTH036__mav3__20260515_070343"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "screen shows \"No recipes found,\" which means there are no recipes to delete... the task is already satisfied", "parse_status": "ok", "record_id": "RecipeDeleteDuplicateRecipes__mav3__20260509_195712"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "RecipeDeleteDuplicateRecipes3__mav3__20260509_200512"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "This could mean either the recipes were already deleted, or they were never present in the app.", "parse_status": "ok", "record_id": "RecipeDeleteMultipleRecipes__mav3__20260509_200652"}
+{"conveys": "UNCLEAR", "hedged": true, "hedge_evidence": "suggests that either no recipes exist in the app or the search/filter has already removed all recipes containing \"pepper.\"", "parse_status": "ok", "record_id": "RecipeDeleteMultipleRecipesWithConstraint__mav3__20260509_200837"}
+{"conveys": "SUCCESS", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T12_firefoxlite_5085__appagent__20260517_090114"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T17_amaze_3207__appagent__20260509_035237"}
+{"conveys": "FAILURE_OR_INCOMPLETE", "hedged": false, "hedge_evidence": "", "parse_status": "ok", "record_id": "themis_T45_phonograph_112__mav3__20260510_165634"}

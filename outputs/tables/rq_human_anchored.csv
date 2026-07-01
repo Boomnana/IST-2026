@@ -1,0 +1,16 @@
+block,scope,key,n_or_P,catch_or_R,pct_or_F1
+ceiling,A,,0.929,0.867,0.897
+ceiling,B,,0.913,0.989,0.949
+ceiling,both,,1.0,0.856,0.922
+human_catch,ALL,redundant,92,84,91.3
+human_catch,ALL,fragile,70,57,81.4
+human_catch,ALL,silent,18,13,72.2
+residual,ALL,silent/verifier-gap/passive-uncheckable,18,13,5
+human_catch,DEV,redundant,52,48,92.3
+human_catch,DEV,fragile,27,21,77.8
+human_catch,DEV,silent,11,8,72.7
+residual,DEV,silent/verifier-gap/passive-uncheckable,11,8,3
+human_catch,TEST,redundant,40,36,90.0
+human_catch,TEST,fragile,43,36,83.7
+human_catch,TEST,silent,7,5,71.4
+residual,TEST,silent/verifier-gap/passive-uncheckable,7,5,2

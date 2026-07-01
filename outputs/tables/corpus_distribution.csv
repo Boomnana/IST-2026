@@ -1,0 +1,4 @@
+family,N,POS,POS_rate_%,steps_median,steps_Q1,steps_Q3,steps_min,steps_max
+appagent,177,90,50.8,9,6,14,3,30
+mav3,288,90,31.2,11,6,17,2,38
+TOTAL,465,180,38.7,10,6,17,2,38

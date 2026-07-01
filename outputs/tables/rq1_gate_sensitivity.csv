@@ -1,0 +1,15 @@
+section,channel_set,channels,backbone,m,redundant,fragile,silent,not_redundant,not_redundant_pct,silent_pct
+spectrum,bare only,bare,DS,1,125,0,55,55,30.6,30.6
+spectrum,bare only,bare,QW,1,107,0,73,73,40.6,40.6
+spectrum,bare+MIBVblind (set C),bare+MIBVblind,DS,2,92,70,18,88,48.9,10.0
+spectrum,bare+MIBVblind (set C),bare+MIBVblind,QW,2,78,48,54,102,56.7,30.0
+spectrum,bare+MIBV+conservative,bare+MIBVblind+conservative,DS,3,91,79,10,89,49.4,5.6
+spectrum,bare+MIBV+conservative,bare+MIBVblind+conservative,QW,3,,,,,,
+spectrum,bare+MIBV+action (set B),bare+MIBVblind+action,DS,3,59,114,7,121,67.2,3.9
+spectrum,bare+MIBV+action (set B),bare+MIBVblind+action,QW,3,47,112,21,133,73.9,11.7
+spectrum,unmerged outcomeNC+claimINC+MIBV,outcomeNC+claimINC+MIBVblind,DS,3,76,86,18,104,57.8,10.0
+spectrum,unmerged outcomeNC+claimINC+MIBV,outcomeNC+claimINC+MIBVblind,QW,3,66,60,54,114,63.3,30.0
+gate,,outcomeNC;claimINC;bare;MIBVblind;conservative,DS,1.5,,,,excluded:action,,
+gate,,outcomeNC;claimINC;bare;MIBVblind;conservative,DS,2.0,,,,excluded:action,,
+gate,,outcomeNC;claimINC;bare;MIBVblind;conservative,DS,2.5,,,,excluded:action,,
+gate,,outcomeNC;claimINC;bare;MIBVblind;conservative,DS,inf,,,,excluded:action,,

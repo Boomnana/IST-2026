@@ -1,0 +1,6 @@
+route,POS,TS
+auto-reject: setC flags (nindep>=1),162,36
+auto-reject: broader passive pool,10,29
+-> HUMAN review (still silent),8,112
+   ...of which human flags as dangerous,6,0
+-> ACTIVE PROBE (human also misses),2,112

@@ -1,0 +1,5 @@
+scope,blind,aware,n,net_pos,net_pp
+appagent,62/90,62/90,90,0,0.0
+mav3,67/90,66/90,90,-1,-1.1
+overall_F1,0.766,0.762,,-1,
+mav3_sign(gain/lost/net),4,5,,-1,

@@ -1,0 +1,4 @@
+axis,spearman_rho_vs_nindep,status
+within-set (bare+MIBV) nonalarm mass,-0.921,CIRCULAR identity - not evidence
+held-out (conservative+MIBVaware) nonalarm mass,-0.787,FALSIFIABLE H1
+held-out vision nonalarm,-0.149,adverse/underpowered

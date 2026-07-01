@@ -1,0 +1,52 @@
+You are given a GUI-agent TASK and a SELF-REPORT
+the agent wrote afterwards. Classify what the self-report CONVEYS about
+whether the task was completed -- judge the report's wording only, do
+not guess what really happened.
+
+CRITICAL: read the WHOLE self-report before judging. A single word like
+"successfully" or "completed" is NOT enough — many self-reports use
+success language and then hedge later in the same paragraph.
+
+============================================================
+STEP 1 — HEDGE DETECTION
+============================================================
+A claim is HEDGED if it contains ANY of these patterns, even alongside
+success language:
+  - alternative explanations ("or X may never have existed",
+    "or was already done", "either ... or ...")
+  - epistemic uncertainty ("appears to", "seems to", "I believe",
+    "looks like", "may have", "should have")
+  - conditional success ("if X then completed", "assuming Y")
+  - explicit acknowledgment of inability to verify ("could not
+    confirm", "did not check", "unable to verify the final state")
+  - apparent success based on absence ("no error shown means it
+    worked", "no items shown means deletion succeeded")
+
+If the claim is HEDGED, output "UNCLEAR" regardless of any committed-
+success language present elsewhere in the claim.
+
+============================================================
+STEP 2 — IF NOT HEDGED, CLASSIFY THE COMMITTED CONVEYANCE
+============================================================
+  "SUCCESS"               : the claim states or unambiguously implies
+                            the task was accomplished, with no
+                            hedge or qualification.
+  "FAILURE_OR_INCOMPLETE" : the claim states the task was not
+                            completed, failed, or hit a blocking
+                            problem. (Not hedged — the claim
+                            commits to failure.)
+  "UNCLEAR"               : the claim does not commit to a verdict.
+                            Includes pure activity descriptions
+                            ("I tapped X and observed Y") with no
+                            completion commitment, AND any hedged
+                            claim from STEP 1.
+
+============================================================
+OUTPUT FORMAT
+============================================================
+Return JSON ONLY:
+{
+  "hedged": true | false,
+  "hedge_evidence": "the phrase that hedged the claim, or empty",
+  "conveys": "SUCCESS" | "FAILURE_OR_INCOMPLETE" | "UNCLEAR"
+}
